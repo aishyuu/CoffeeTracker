@@ -1,1 +1,26 @@
-<p>display-all works!</p>
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col" class="col-3">Date</th>
+      <th scope="col" class="col-5">Cups</th>
+      <th scope="col" class="col-1">Edit</th>
+      <th scope="col" class="col-1">Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active" *ngFor="let day of data">
+      <td>{{ day.date }}</td>
+      <td>{{ day.cups }}</td>
+      <td>
+        <a routerLink="/edit/{{ day.id }}">
+            <i class="fa-solid fa-pen-to-square"></i>
+        </a>
+      </td>
+      <td>
+        <button (click)="this.deleteDay(day.id)">
+            <i class="fa-solid fa-trash"></i>
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>

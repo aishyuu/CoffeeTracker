@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\coffeedayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\model\\coffeeday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\model\\coffeeday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\migrations\\20240801214043_datetimechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20240801214043_datetimechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\migrations\\20240801213942_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20240801213942_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\model\\coffeeday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\model\\coffeeday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|f:\\fullstack projects\\coffeetracker\\coffeeapi\\coffeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{58D087BE-AF72-4BEB-B683-E1AA02BEAE65}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CoffeeDaysController.cs",
-              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
-              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
-              "RelativeToolTip": "CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Program.cs",
+              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Program.cs",
+              "RelativeToolTip": "CoffeeAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:47:34.706Z",
+              "WhenOpened": "2024-08-01T21:37:33.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "CoffeeDay.cs",
+              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Model\\CoffeeDay.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Model\\CoffeeDay.cs",
+              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Model\\CoffeeDay.cs",
+              "RelativeToolTip": "CoffeeAPI\\Model\\CoffeeDay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:00:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20240801214043_DateTimeChange.cs",
               "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Migrations\\20240801214043_DateTimeChange.cs",
               "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20240801214043_DateTimeChange.cs",
@@ -67,38 +80,11 @@
               "RelativeToolTip": "CoffeeAPI\\Migrations\\20240801214043_DateTimeChange.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:40:44.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T21:40:44.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240801213942_InitialCreate.cs",
-              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
-              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
-              "RelativeToolTip": "CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:39:43.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Program.cs",
-              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Program.cs",
-              "RelativeToolTip": "CoffeeAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:37:33.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CoffeeAPI\\appsettings.json",
@@ -111,7 +97,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "20240801213942_InitialCreate.cs",
+              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
+              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
+              "RelativeToolTip": "CoffeeAPI\\Migrations\\20240801213942_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:39:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeDaysController.cs",
+              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
+              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
+              "RelativeToolTip": "CoffeeAPI\\Controllers\\CoffeeDaysController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:47:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CoffeeAPI\\Data\\ApplicationDbContext.cs",
@@ -119,21 +130,7 @@
               "RelativeToolTip": "CoffeeAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:28:28.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CoffeeDay.cs",
-              "DocumentMoniker": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Model\\CoffeeDay.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Model\\CoffeeDay.cs",
-              "ToolTip": "F:\\FullStack Projects\\CoffeeTracker\\CoffeeAPI\\CoffeeAPI\\Model\\CoffeeDay.cs",
-              "RelativeToolTip": "CoffeeAPI\\Model\\CoffeeDay.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:00:57.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T21:28:28.309Z"
             }
           ]
         },
